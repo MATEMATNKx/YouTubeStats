@@ -1,2 +1,2 @@
-# YouTubeStats
-EDA on YouTube data
+# Statistics (Обучение)
+Репозиторий включает в себя исследование в области анализа данных. 
